@@ -11,3 +11,11 @@ Block title:
 Extending template:
 {% extend "base.html" %}
 
+If statement:
+{% if condition %} {% endif %}
+
+Else statement:
+{% if condition %} {% else %} {% endif %}
+
+For statement:
+{% for item in list %} {% endfor %}
