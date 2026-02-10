@@ -19,3 +19,9 @@ Else statement:
 
 For statement:
 {% for item in list %} {% endfor %}
+
+
+Testing and test log:
+Boundary testing
+Extreme testing
+Erroneous testing
