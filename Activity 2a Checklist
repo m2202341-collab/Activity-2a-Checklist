@@ -4,3 +4,10 @@ Activity 2a Checklist
 Asset Log Table Structure:
 Asset ID | Type of Asset | Source / URL |  Description of Content  |  Intended Purpose  |  Date Retrieved
 
+Jinja2(flask) Syntax:
+Block title:
+<title>{% block title %} {% endblock %}</title>
+
+Extending template:
+{% extend "base.html" %}
+
