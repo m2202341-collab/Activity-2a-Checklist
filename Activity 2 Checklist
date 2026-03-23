@@ -45,14 +45,19 @@ This an inline level this takes up a small space around a text.
 aspects of this works in elements like: span, a and img by default
 
 Testing and test log:
-
+ITERATIVE TESTING:
+Put the data and if you retested say you retested
 
 TEST DATA
 Normal testing - every day sensible input
 Extreme testing - value at the maximum or minimum  data allowed in the system
 Erroneous testing - wrong or impossible type of data that is outside valid range
 
-A
+Speak about:
+- Iteative Testing
+- Accessibility Testing
+- Colour contrast
+- Keyboard Navigation
 
 Change Log:
 You need:
