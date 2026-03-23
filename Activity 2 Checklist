@@ -20,6 +20,21 @@ Else statement:
 For statement:
 {% for item in list %} {% endfor %}
 
+linking css:
+<link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+
+CSS properties and values explaination:
+display: block;
+
+Explaination: 
+This is a block level element this is going to take up the entire space of the page
+aspects of this works in elements like: div, p, h1, footer and form by default.
+
+display: inline;
+
+Explaination:
+This an inline level this takes up a small space around a text.
+aspects of this works in elements like: span, a and img by default
 
 Testing and test log:
 Boundary testing
