@@ -9,6 +9,8 @@ You need:
 Asset Log Table Structure:
 Asset ID | Type of Asset | Source / URL |  Description of Content  |  Intended Purpose  |  Date Retrieved
 
+Test Log Table Structure:
+Description of test | Test data to be used (if required) | Expected outcome | Actual outcome | Comments and intended actions
 
 Jinja2(flask) Syntax:
 Block title:
@@ -33,7 +35,7 @@ CSS properties and values explaination:
 display: block;
 
 Explaination: 
-This is a block level element this is going to take up the entire space of the page
+This is a block level element this is going to take up the entire width space on the page
 aspects of this works in elements like: div, p, h1, footer and form by default.
 
 display: inline;
@@ -43,6 +45,18 @@ This an inline level this takes up a small space around a text.
 aspects of this works in elements like: span, a and img by default
 
 Testing and test log:
-Boundary testing
-Extreme testing
-Erroneous testing
+
+
+TEST DATA
+Normal testing - every day sensible input
+Extreme testing - value at the maximum or minimum  data allowed in the system
+Erroneous testing - wrong or impossible type of data that is outside valid range
+
+A
+
+Change Log:
+You need:
+- Name
+- Date
+- Description
+- Reason
