@@ -1,8 +1,14 @@
 Activity 2 Checklist
 
+You need:
+Test Log
+Asset Log
+Change Log
+Development Log
 
 Asset Log Table Structure:
 Asset ID | Type of Asset | Source / URL |  Description of Content  |  Intended Purpose  |  Date Retrieved
+
 
 Jinja2(flask) Syntax:
 Block title:
