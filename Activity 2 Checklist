@@ -1,5 +1,10 @@
 Activity 2 Checklist
 
+Grade:
+- Test log
+- Is the code legal
+- does it follow GDPR(Data security)
+
 You need:
 - Test Log
 - Asset Log
@@ -65,3 +70,9 @@ You need:
 - Date
 - Description
 - Reason
+
+Development Log:
+Talk about: 
+- Flask setup
+- Problems you faced
+- Whether the code follows GDPR and other laws
